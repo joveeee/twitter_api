@@ -1,9 +1,6 @@
 # twitter_api
 Mesg service for Twitter API
 
-# Discord invitation
-
-
 ```bash
 mesg-core service deploy https://github.com/joveeee/twitter_api
 ```
